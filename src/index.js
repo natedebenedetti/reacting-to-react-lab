@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 import App from './components/App';
 
 ReactDOM.render(
-    <App string="What's App-ening today?" />
+    <App message="What's App-ening?"/>
     , document.getElementById('root'));
+
 
